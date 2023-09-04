@@ -1,4 +1,3 @@
-https://github.com/JesusParedes-04/Clientes_Mern/issues/1#issue-1880231152
 
 Descripción del Proyecto de Clientes (CRUD) - Backend
 
